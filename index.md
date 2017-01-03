@@ -1,3 +1,7 @@
+---
+layout: default
+title: Cronache Savonesi dal 1500 al 1570 ... Accresciute di documenti inediti pubblicate e annotate dal dott. G. Assereto
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
