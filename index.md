@@ -41,13 +41,13 @@ Cronache Savonesi
   di AGOSTINO ABATE  
   
   
-  ACCRESCIUTE J)I DOCUMENTI INEDITI  
+  ACCRESCIUTE DI DOCUMENTI INEDITI  
   
   
   PUBBLICATE E ANNOTATE  
   
   
-  dal Dott. G. ASSERÈTO  
+  dal Dott. G. ASSERETO  
   
   
   SAVONA  
@@ -59,7 +59,7 @@ Cronache Savonesi
 
 <!-- Leaf 10 -->
   
-  "Proprietà Letteraria
+  Proprietà Letteraria
 <!-- Leaf 11 -->
   
   ALLA VENERATA PATERNA MEMORIA  
@@ -68,7 +68,7 @@ Cronache Savonesi
   DEL  
   
   
-  Marchese Dottoi PAOLO ASSERETO  
+  Marchese Dottor PAOLO ASSERETO  
   
   
   CHE SINDACO E DEPUTATO DI SAVONA  
@@ -85,39 +85,28 @@ Cronache Savonesi
   
   NEL PARLAMENTO DELLA NAZIONE
 <!-- Leaf 13 -->
-  
-  leggasi : il Verzellino dice
 
-» di che lo Spotorno dice avere
+ 
+    
+  
+  
+CORREZIONI ALLE NOTE  
+  
+  
+Pagina Linea
 
-» Mcî Doni"' Antiani
-» e il primo fu
-» gli statina speciali consimili press' a
-poco agli
-» procuratorem ad negotia (V. Arch. Com.
-Reg. a Catena lib. IL pag. 306 verso)
-» dei Berrettari affida
-» Fuvvi uno Stefano Lamberti.  
-  
-  
-  Altre scorrezioni tipogratìche possono essere incorse, cui vorrà rimediare la cortesia del lettore.  
-  
-  
-  CORREZIONI ALLE NOTE  
-  
-  
-  Pagina Linea
+38  6 il Verzellino lo dice leggasi : il Verzellino dice
+44  6 e 7 che lo Spotorno dice averne » di che lo Spotorno dice avere
+55  I  M^ci^ Dnci Antiani » M^ci^ Dom^ni^ Antiani
+98  21  il primo di questi fu » e il primo fu
+126 6 gli _Statuta_ speciali seguenti » gli statuta speciali consimili press' a poco agli
+149 II Cigala deputat procuratorem ad negotia » procuratorem ad negotia (V. Arch. Com.
+Reg. a Catena lib. II pag. 306 verso)
+150 9 dei Berrettari gli affida » dei Berrettari affida
+208 I Uno Stefano Lamberti  » Fuvvi uno Stefano Lamberti.
 
-38 6 il Verzellino lo dice
+Altre scorrezioni tipogratìche possono essere incorse, cui vorrà rimediare la cortesia del lettore.
 
-44 6 e 7 che lo Spotorno dice averne
-55 1 Md Dnci Antiani
-98 21 il primo di questi fu
-126 6 gli Statista speciali seguenti
-149 11 Cigala deputat procuratore™ ad
-negotia
-150 9 dei Berrettari gli affida
-208 1 Uno Stefano Lamberti
 <!-- Leaf 15 -->
 È A %,
 
